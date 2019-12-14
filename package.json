@@ -1,0 +1,25 @@
+{
+  "name": "sequelize-import-export",
+  "version": "1.0.0",
+  "description": "Node js module to import and export sequelize database.",
+  "main": "index.js",
+  "scripts": {},
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/aneesijaz/sequelize-import-export/issues"
+  },
+  "homepage": "https://github.com/aneesijaz/sequelize-import-export",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aneesijaz/sequelize-import-export.git"
+  },
+  "author": {
+    "name": "Anees Ijaz",
+    "email": "anees@fasterbyte.net",
+    "url": "https://fasterbyte.net"
+  },
+  "license": "MIT",
+  "keywords": ["nodejs", "sequelize", "backup", "import", "export", "database"]
+}
